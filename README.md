@@ -1,4 +1,4 @@
-Advanced Computer Vision Techniques with OpenCV
+Advanced Computer Vision Techniques with OpenCV (open @B.Tech : 1st year) Status : Active / On Hold
 
 This repository contains implementations of advanced computer vision techniques using OpenCV 3 and MediaPipe. The code was developed step by step while following tutorials, providing a hands-on approach to understanding key concepts and functionalities in computer vision.
 Features
